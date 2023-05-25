@@ -1,12 +1,7 @@
 import React from 'react'
-import TabBar from './components/Framer-Motion/TabBar'
 
 function App() {
-  return (
-    <div>
-      <TabBar />
-    </div>
-  )
+  return <div></div>
 }
 
 export default App
